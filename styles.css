@@ -6,4 +6,6 @@ body {background: lightgray;}
 a {color: aqua; text-decoration: none;}
 a:hover {background-color: lime;}
 
+.bold {font-weight: 900;}
+
 
