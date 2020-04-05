@@ -3,25 +3,22 @@ body {background: lightgray;}
 
  h2, p, .readme-wrapper { text-align: center; 
     }
-a {color: aqua; text-decoration: none;}
-a:hover {background-color: lime;}
+a {color: rgb(47, 221, 221); text-decoration: none;}
+a:hover {background-color: rgb(187, 60, 187);}
 
 .bold {font-weight: 900;}
 
-.boxes {margin:6em ; padding:12% ; border:3px dashed midnightblue;border-radius: 30em;}
+.boxes {display: block; margin:1px ; padding:1em ; border:3px solid midnightblue; border-radius:3em; width: 30em;}
 
-#container {background-color: oldlace;}
+#box1 {background-color: oldlace;}
 
-#box1 {background-color: olive;}
+#box2 {background-color: lemonchiffon;}
 
-#box2 {background-color: orangered;}
+#box3 {background-color: lightpink;}
 
-#box3 {background-color: peru;}
+#box4 {background-color: lavender;}
 
-#box4 {background-color: purple;}
+.img {height: 50px; width: 50px; border-radius: 50px; background-color: skyblue;
+    position: relative; top: 45px; left: 45px;}
 
-#box1a {background-color: rosybrown;}
-#box2a {background-color: saddlebrown;}
-#box3a {background-color: seagreen;}
-#box4a {background-color: springgreen;}
 
