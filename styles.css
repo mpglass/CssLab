@@ -21,4 +21,15 @@ a:hover {background-color: rgb(187, 60, 187);}
 .img {height: 50px; width: 50px; border-radius: 50px; background-color: skyblue;
     position: relative; top: 45px; left: 45px;}
 
+h1 {color: indigo;}
+
+.original {color: magenta;}
+.additional {color: maroon;}
+
+#show1 {color: tomato;}
+#show2 {color: teal;}
+#show3 {color: white;}
+#show4 {color: springgreen;}
+#show5 {color: sienna;}
+
 
