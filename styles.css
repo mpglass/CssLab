@@ -8,4 +8,20 @@ a:hover {background-color: lime;}
 
 .bold {font-weight: 900;}
 
+.boxes {margin:6em ; padding:12% ; border:3px dashed midnightblue;border-radius: 30em;}
+
+#container {background-color: oldlace;}
+
+#box1 {background-color: olive;}
+
+#box2 {background-color: orangered;}
+
+#box3 {background-color: peru;}
+
+#box4 {background-color: purple;}
+
+#box1a {background-color: rosybrown;}
+#box2a {background-color: saddlebrown;}
+#box3a {background-color: seagreen;}
+#box4a {background-color: springgreen;}
 
